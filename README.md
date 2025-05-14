@@ -4,7 +4,7 @@
 
 ## Usage
 
-This is a normal sbt project. You can start the sbt shell using `sbt` then compile code with `compile`, run the main
+This is a normal sbt project. You can start the sbt shell using `sbt` then compile code with `compile`, run the main test
 method with `run`, run the tests with `test` and start a REPL using `console`.
 
 If compiling this example project fails, you probably have a global sbt plugin
